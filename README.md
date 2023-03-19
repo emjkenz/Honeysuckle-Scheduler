@@ -1,6 +1,8 @@
 # work-day-scheduler
 I created a simple calendar application that allows a user to save events for each hour of the day.
 
+You can use it [here](https://emjkenz.github.io/Honeysuckle-Scheduler/)
+
 ## User Story
 ```
 AS AN employee with a busy schedule
